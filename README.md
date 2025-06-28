@@ -1,2 +1,2 @@
-# -
-This is an auto push repository for Baekjoon Online Judge created with [AlgoPlus](https://github.com/algo-plus/algo-plus).
+# [백준] 코딩 오답노트
+백준 온라인 저지의 자동 푸시 저장소입니다 .
